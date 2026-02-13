@@ -1,0 +1,9 @@
+file,total_lines,matched_lines
+sample_logs\app.log,0,0
+
+keyword,count
+error,0
+exception,0
+failed,0
+
+sample_line_no,keyword,line

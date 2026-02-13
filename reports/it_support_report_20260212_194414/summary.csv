@@ -1,0 +1,7 @@
+key,value
+generated_at,2026-02-12T19:44:14
+log_file,sample_logs\app.log
+log_total_lines,0
+log_matched_lines,0
+log_top_keyword,error
+log_top_keyword_count,0
